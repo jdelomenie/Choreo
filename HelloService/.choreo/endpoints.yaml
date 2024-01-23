@@ -5,4 +5,4 @@ endpoints:
   type: REST
   networkVisibility: Public
   context: /HelloWorld
-  schemaFilePath: HelloWorld_openapi.yaml
+  schemaFilePath: HelloServiceConfigs/src/main/resources/metadata/HelloWorld_swagger.yaml
